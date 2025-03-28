@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @Loskinha
-- 👀 I’m interested in program
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on program
-- 📫 How to reach me @lsonascimento_
-- 😄 Pronouns: man👍
-- ⚡ Fun fact: ...
+
